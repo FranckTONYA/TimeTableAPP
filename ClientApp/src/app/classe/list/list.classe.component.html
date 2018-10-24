@@ -1,0 +1,14 @@
+<hr class="m-0">
+<div class="col-12 row" *ngIf="classes">
+  <div class="col-lg-3 mt-4" *ngFor="let cl of classes">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">{{cl.idfiliereNavigation.nom + cl.codgrade + cl.niveau}}</h5>
+        <div>{{cl.idfiliereNavigation.codfiliere}}</div>
+      </div>
+      <div class="card-footer text-right">
+        <a class="btn btn-info btn-sm"  [routerLink]="['/classes', cl.idclasse, 'display']">Time</a>
+      </div>
+    </div>
+  </div>
+</div>

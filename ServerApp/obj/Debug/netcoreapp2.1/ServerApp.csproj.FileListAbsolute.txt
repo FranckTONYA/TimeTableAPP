@@ -1,0 +1,28 @@
+F:\L3\Document de stage\emploie de temps\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.deps.json
+F:\L3\Document de stage\emploie de temps\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.runtimeconfig.json
+F:\L3\Document de stage\emploie de temps\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.runtimeconfig.dev.json
+F:\L3\Document de stage\emploie de temps\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.dll
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.csprojAssemblyReference.cache
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.csproj.CoreCompileInputs.cache
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorAssemblyInfo.cache
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorAssemblyInfo.cs
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.AssemblyInfoInputs.cache
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.AssemblyInfo.cs
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorTargetAssemblyInfo.cache
+F:\L3\Document de stage\emploie de temps\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.pdb
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.dll
+F:\L3\Document de stage\emploie de temps\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.pdb
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.deps.json
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.runtimeconfig.json
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.runtimeconfig.dev.json
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.dll
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\bin\Debug\netcoreapp2.1\ServerApp.pdb
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.csprojAssemblyReference.cache
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.csproj.CoreCompileInputs.cache
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorAssemblyInfo.cache
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorAssemblyInfo.cs
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.AssemblyInfoInputs.cache
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.AssemblyInfo.cs
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.RazorTargetAssemblyInfo.cache
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.dll
+D:\Projet Stage\ModulesApp\timetable-ClientApp-master\ServerApp\obj\Debug\netcoreapp2.1\ServerApp.pdb

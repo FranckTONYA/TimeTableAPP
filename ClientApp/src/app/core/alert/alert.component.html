@@ -1,0 +1,8 @@
+<div [ngClass]="className" class="col row p-3 m-0 text-light" *ngIf="show && message">
+  <div class="col-11">{{message}}</div>
+  <div class="col-1 text-right">
+    <button type="button" class="close" aria-label="Close" (click)="hide()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+<div class="col-12 row mt-3" *ngIf="classe" >
+  <div class="col-6">
+    <h4 class="text-uppercase">{{classe}}</h4>
+    <div class="col mt-3">
+      <h5 class="col text-capitalize">{{ classe.idfiliereNavigation.nom + classe.codgrade + classe.niveau }}</h5>
+    </div>
+    <div class="col mt-3">
+      <h5 class="col text-capitalize"> {{ classe.idfiliereNavigation.codfiliere }}</h5>
+    </div>
+    <div class="col mt-5">
+      <h6 class="col text-uppercase">description</h6>
+      <div class="col">{{ classe.idfiliereNavigation.name }}</div>
+    </div>
+  </div>
+</div>

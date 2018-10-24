@@ -1,0 +1,1 @@
+UPDATE periode SET periode.minute_debut="00" WHERE periode.id="1"
